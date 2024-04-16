@@ -7,7 +7,7 @@ This bot automates the process of clearing tasks in the Side Quests game. It fet
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/dante4rt/side-quests-bot.git
+   git clone https://github.com/ne0tjmber/rcque12
    ```
 
 2. Install dependencies:
@@ -35,8 +35,9 @@ This bot automates the process of clearing tasks in the Side Quests game. It fet
 
 3. Run the bot:
    ```sh
-   npm start
+   node index.js   
    ```
+
 
 ## How to Obtain Bearer Token
 
